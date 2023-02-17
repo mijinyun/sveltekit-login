@@ -15,7 +15,7 @@
         const bodyData = {
             grant_type: "authorization_code",
             client_id : "19901113b9a9909609147a67ffc2a953",
-            redirect_uri : "https://sveltekit-kakao.vercel.app/kakaologin",
+            redirect_uri : "https://sveltekit-login.vercel.app/kakaologin",
             // redirect_uri : "http://localhost:5173/kakaologin",
             code : code
         }
